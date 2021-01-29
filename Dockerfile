@@ -1,1 +1,1 @@
-FROM calico/cni:v3.14.1
+FROM calico/cni:v3.17.1
